@@ -1,0 +1,9 @@
+{
+  "id": "hisabpro-repo",
+  "name": "HisabPro Community Repository",
+  "url": "https://raw.githubusercontent.com/tararajchandra/Hisabpro_tara/main/t3-repository/",
+  "type": "community",
+  "version": 1,
+  "description": "Official HisabPro ERP distribution repository for T3 Hub",
+  "trust_policy": "user-approved"
+}
