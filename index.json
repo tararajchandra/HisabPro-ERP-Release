@@ -1,13 +1,13 @@
 {
   "repository_id": "hisabpro-repo",
   "version": 1,
-  "generated_at": "2026-11-01T14:00:00Z",
+  "generated_at": "2026-11-02T06:13:26.504Z",
   "packages": [
     {
       "id": "business.hisabpro",
       "name": "HisabPro ERP",
       "publisher": "Tara Rajchandra",
-      "latest_version": "0.1.1",
+      "latest_version": "0.1.6",
       "description": "Modern desktop ERP, GST invoicing, and accounting software built for small and medium enterprises.",
       "categories": [
         "Business",
@@ -21,8 +21,13 @@
         "inventory"
       ],
       "icon_url": "https://raw.githubusercontent.com/tararajchandra/Hisabpro_tara/main/src-tauri/icons/icon.png",
-      "manifest_path": "manifests/0.1.1.yaml",
+      "manifest_path": "manifests/0.1.6.yaml",
       "versions": [
+        {
+          "version": "0.1.6",
+          "manifest_path": "manifests/0.1.6.yaml",
+          "release_date": "2026-11-02"
+        },
         {
           "version": "0.1.1",
           "manifest_path": "manifests/0.1.1.yaml",
